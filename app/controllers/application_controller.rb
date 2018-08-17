@@ -76,7 +76,7 @@ Bundler.require
     elsif @user_ans == 221
       restaurantName="LYFE Kitchen"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{restaurantName}</a> </b> is the restaurant that will best accommodate your allergy!"
-      descrip= "#{restaurantName} is an American fast-food restaurant chain operating in California, Texas, Colorado, Illinois, Nevada, and Tennessee. The company's name is an acronym that stands for "Love Your Food Everyday". They have menu items to accommodate nut-free, vegan, and gluten-free diets."
+      descrip= "#{restaurantName} is an American fast-food restaurant chain operating in California, Texas, Colorado, Illinois, Nevada, and Tennessee. The company's name is an acronym that stands for 'Love Your Food Everyday'. They have menu items to accommodate nut-free, vegan, and gluten-free diets."
       img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRs4WUzUM1KWfdemOpSr0NuoZJueC3JXRizjC8VC_qDXr1f61dYw"
       url="http://www.lyfekitchen.com/"
     
@@ -238,7 +238,7 @@ Bundler.require
     elsif @user_ans == 322
       restaurantName="LYFE Kitchen"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{restaurantName}</a> </b> is the restaurant that will best accommodate your allergy!"
-      descrip= "#{restaurantName} is an American fast-food restaurant chain operating in California, Texas, Colorado, Illinois, Nevada, and Tennessee. The company's name is an acronym that stands for "Love Your Food Everyday". They have menu items to accommodate nut-free, vegan, and gluten-free diets."
+      descrip= "#{restaurantName} is an American fast-food restaurant chain operating in California, Texas, Colorado, Illinois, Nevada, and Tennessee. The company's name is an acronym that stands for 'Love Your Food Everyday'. They have menu items to accommodate nut-free, vegan, and gluten-free diets."
       img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRs4WUzUM1KWfdemOpSr0NuoZJueC3JXRizjC8VC_qDXr1f61dYw"
       url="http://www.lyfekitchen.com/"
     
